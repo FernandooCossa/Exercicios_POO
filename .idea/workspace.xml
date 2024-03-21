@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a47b0a6b-7405-4517-ad81-ce330ec474bb" name="Changes" comment="Relogio">
-      <change afterPath="$PROJECT_DIR$/src/Retangulo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retangulo/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Banco/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Banco/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carro/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Banco.Main.executor": "Run",
     "Application.Batalha.Main.executor": "Run",
     "Application.Calculadora.Main.executor": "Run",
     "Application.Contador.Main.executor": "Run",
@@ -43,32 +47,20 @@
     "Application.Retangulo.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/fernando_s_de-cossa/IdeaProjects/POO",
     "onboarding.tips.debug.path": "C:/Users/fernando_s_de-cossa/IdeaProjects/POO/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Retangulo.Main">
-    <configuration name="Batalha.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Batalha.Main" />
+  <component name="RunManager" selected="Application.Banco.Main">
+    <configuration name="Banco.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banco.Main" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Batalha.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculadora.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculadora.Main" />
-      <module name="POO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Calculadora.*" />
+          <option name="PATTERN" value="Banco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Contador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Carro.Main" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Carro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Banco.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Retangulo.Main" />
         <item itemvalue="Application.Relogio.Main" />
         <item itemvalue="Application.Contador.Main" />
-        <item itemvalue="Application.Calculadora.Main" />
-        <item itemvalue="Application.Batalha.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710808983695</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Relogio">
+      <option name="closed" value="true" />
+      <created>1710974286397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710974286397</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
