@@ -11,5 +11,17 @@ public class Main {
         int idade = scanner.nextInt();
         Cachorro pug = new Cachorro(nome, idade);
         pug.exibirDetalhes();
+
+
+        System.out.println("digite o nome do gato:");
+        nome = scanner.next();
+        System.out.println("idade:");
+        idade = scanner.nextInt();
+        Gato garfield = new Gato(nome,idade);
+        System.out.println("digite o som do gato: ");
+        String som = scanner.next();
+        garfield.exibirDetalhes();
+        garfield.emitirSom(som);
+
     }
 }

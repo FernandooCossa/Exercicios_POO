@@ -1,5 +1,7 @@
+package Pessoa;
+
 public class PessoaFisica extends Pessoa {
-    //PessoaFisica é uma extensão de Pessoa
+    //Pessoa.Pessoa.PessoaFisica é uma extensão de Pessoa.Pessoa
     String cpf;
 
     @Override

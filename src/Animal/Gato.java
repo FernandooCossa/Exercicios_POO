@@ -27,11 +27,14 @@ public class Gato  implements Animal{
 
     @Override
     public void emitirSom(String som) {
-
+        System.out.println("Gato faz: "+ som);
     }
 
     @Override
     public void exibirDetalhes() {
-
+        System.out.println("nome:"+this.nome);
+        System.out.println("idade:"+this.idade);
     }
+
+
 }

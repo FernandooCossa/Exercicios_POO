@@ -1,3 +1,5 @@
+package Pessoa;
+
 public class Pessoa {
     // Atributos
     String nome;

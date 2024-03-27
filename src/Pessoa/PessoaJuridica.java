@@ -1,3 +1,5 @@
+package Pessoa;
+
 public class PessoaJuridica extends Pessoa {
     String cnpj;
 
