@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a47b0a6b-7405-4517-ad81-ce330ec474bb" name="Changes" comment="Adicionado Interface Animal">
-      <change afterPath="$PROJECT_DIR$/src/Estudante/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estudante/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa/PessoaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa/PessoaJuridica.java" afterDir="false" />
+    <list default="true" id="a47b0a6b-7405-4517-ad81-ce330ec474bb" name="Changes" comment="Adicionado Atividade produto">
+      <change afterPath="$PROJECT_DIR$/src/Pessoa2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pessoa2/Pessoa2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +55,7 @@
     "onboarding.tips.debug.path": "C:/Users/fernando_s_de-cossa/IdeaProjects/POO/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Produto.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Animal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animal.Main" />
       <module name="POO" />
@@ -78,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Banco.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Banco.Main" />
+    <configuration name="Estudante.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estudante.Main" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Banco.*" />
+          <option name="PATTERN" value="Estudante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Estudante.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estudante.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pessoa2.Main" />
       <module name="POO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Estudante.*" />
+          <option name="PATTERN" value="Pessoa2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Produto.Main" />
         <item itemvalue="Application.Estudante.Main" />
         <item itemvalue="Application.Pessoa.Main" />
         <item itemvalue="Application.Animal.Main" />
-        <item itemvalue="Application.Banco.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711409565963</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adicionado Atividade produto">
+      <option name="closed" value="true" />
+      <created>1711579467087</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711579467087</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,7 +236,8 @@
     <MESSAGE value="Relogio" />
     <MESSAGE value="Add Exercicios" />
     <MESSAGE value="Adicionado Interface Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado Interface Animal" />
+    <MESSAGE value="Adicionado Atividade produto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado Atividade produto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
