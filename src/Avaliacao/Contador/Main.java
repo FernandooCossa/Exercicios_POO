@@ -1,4 +1,4 @@
-package Contador;
+package Avaliacao.Contador;
 
 import java.util.Scanner;
 

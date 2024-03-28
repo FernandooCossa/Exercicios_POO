@@ -1,4 +1,4 @@
-package Contador;
+package Avaliacao.Contador;
 
 public class Contador {
     int valor;
